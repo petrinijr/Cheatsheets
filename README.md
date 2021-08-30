@@ -12,7 +12,12 @@
 <hr />
 <ul>
   <li>Comprehensive Python Cheatsheet: https://github.com/gto76/python-cheatsheet/blob/main/README.md </li>
+</ul>
+
+<H4>Flask</H4>
+<ul>
   <li>Flask Cheatsheet: https://github.com/lucrae/flask-cheat-sheet</li>
+  <li>How to run multiple flask apps from same client machine: https://stackoverflow.com/questions/48205495/python-how-to-run-multiple-flask-apps-from-same-client-machine</li>
 </ul>
 
 <H3>SQL</H3>
