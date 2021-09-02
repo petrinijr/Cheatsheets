@@ -25,4 +25,6 @@
 <ul>
   <li>Qual é a diferença entre INNER JOIN e OUTER JOIN? (com outros JOINs explicados): https://pt.stackoverflow.com/questions/6441/qual-%C3%A9-a-diferen%C3%A7a-entre-      inner-join-e-outer-join</li>
   <li>Star Schema vs Snowflake Schema: https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/</li>
+  <li>Using GROUP BY on multiple columns: https://stackoverflow.com/questions/2421388/using-group-by-on-multiple-columns?rq=1</li>
+  <li>MySQL Workbench Diagrams: https://stackoverflow.com/questions/10778561/what-do-the-mysql-workbench-column-icons-mean</li>
 </ul>
