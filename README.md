@@ -23,6 +23,12 @@
 <H3>SQL</H3>
 <hr />
 <ul>
+  <li>Google BigQuery:
+    <ul>
+      Funções de String: https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#regexp_contains
+      Sintaxe re2 compatível para funções REGEX: https://github.com/google/re2/wiki/Syntax
+    </ul>
+  </li>
   <li>Qual é a diferença entre INNER JOIN e OUTER JOIN? (com outros JOINs explicados): https://pt.stackoverflow.com/questions/6441/qual-%C3%A9-a-diferen%C3%A7a-entre-      inner-join-e-outer-join</li>
   <li>Star Schema vs Snowflake Schema: https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/</li>
   <li>Using GROUP BY on multiple columns: https://stackoverflow.com/questions/2421388/using-group-by-on-multiple-columns?rq=1</li>
