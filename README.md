@@ -23,6 +23,7 @@
 <H3>SQL</H3>
 <hr />
 <ul>
+  <li>Bad habits to kick: mishandling data/range queries: https://sqlblog.org/2009/10/16/bad-habits-to-kick-mis-handling-date-range-queries</li>
   <li>Google BigQuery:
     <ul>
       Funções de String: https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#regexp_contains
